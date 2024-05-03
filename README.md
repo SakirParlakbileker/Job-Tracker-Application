@@ -31,9 +31,3 @@ adding a new job
 - **Redux Toolkit**: Simplifies Redux state management with predefined tools like createSlice.
 - **UUID**: Generates unique identifiers for new job entries.
 - **React Router DOM**: Provides routing capabilities for navigating between pages in the application.
-
-## Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/job-tracker-app.git
