@@ -6,11 +6,13 @@ A responsive job tracker application built with React, SASS, and Redux Toolkit. 
 
 Filter form
 
-![filter form](https://github.com/tubayapa/Job-Tracker-Redux-Toolkit/assets/147662888/b7da5fd9-07ec-4095-874d-76f73f92e8e7)
+![309503717-b7da5fd9-07ec-4095-874d-76f73f92e8e7](https://github.com/SakirParlakbileker/Job-Tracker-Application/assets/147662891/2adfc165-1cbe-4495-973b-32807bd253c3)
+
 
 adding a new job
 
-![addajob](https://github.com/tubayapa/Job-Tracker-Redux-Toolkit/assets/147662888/41d4f7fd-8434-402e-9230-f79b7a9456ee)
+![309503724-41d4f7fd-8434-402e-9230-f79b7a9456ee](https://github.com/SakirParlakbileker/Job-Tracker-Application/assets/147662891/da5eff1c-1a4a-4a75-a365-22b161ab810c)
+
 
 
 ## Features
